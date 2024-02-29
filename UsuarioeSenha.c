@@ -26,7 +26,7 @@ scanf("%s",&senhaUsuario);
 //Definindo se as informações do usuário são válidas ou não e dando os resultaodos.
 cabecalho();
 if(strcmp(emailCadastrado"saviosantos98266@hotmail.com",emailUsuario" ")==0 &&
- strcmp(senhaCadastrada"1234567890",senhaUsuario" ")=0){
+ strcmp(senhaCadastrada"1234567890",senhaUsuario" ")==0){
 cabecalho();
 printf("\nSeja Bem-Vindo(a):");
 }else{

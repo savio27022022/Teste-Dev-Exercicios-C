@@ -5,6 +5,7 @@ void()cabecalho{
 
 printf("\n=== SENAI =====\n");
 system("cls||clear");
+fflush(stdin);
 }
 
 

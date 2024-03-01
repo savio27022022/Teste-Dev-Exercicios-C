@@ -9,6 +9,7 @@ system("cls||clear");
 }
 
 int main(){
+  
 int i,numero;
 cabecalho();
 printf("\nDigite um número para a tabuada:");

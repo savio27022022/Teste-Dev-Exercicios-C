@@ -1,6 +1,8 @@
-#include <stdio.h>
-
+#include<stdio.h>
+#include<stdlib.h>
+#include<locale.h>
 int main() {
+  setlocale(LC_ALL,"");
   int n, soma = 0, i = 1;
 
   // Leitura do número n
